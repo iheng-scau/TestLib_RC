@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.list table{
+	width:100%;
+	font-family:"微软雅黑";
+}
+
+th{
+	color:#FFF;
+	padding:10px;
+	font-family:"微软雅黑";
+}
+
+td{
+	padding:10px;
+}
+
+tr:nth-child(odd){
+	background-color:#8F8;
+}
+
+tr:nth-child(even){
+	background-color:#00C663;
+}
+
