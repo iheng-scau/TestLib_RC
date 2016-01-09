@@ -1,3 +1,3 @@
-TestLib_RC
-==========
-This is a open source project.
+#TestLib RC Version(Deprecated)
+This is a project for my gradution thesis.<br>
+
